@@ -23,7 +23,7 @@ package.json
 tailwind.config.js
 
 ## How to use in your project
-**Clone this repo** `https://github.com/muhammadashiqurrahman/tailwindcss-boilarplate.git`
+**Clone this repo** `https://github.com/asrafulhoque25/tailwind-starter-pack.git`
 
 **Open the files in you IDE/Code Editor and, open the terminal and run** `npm install`
 
